@@ -47,3 +47,16 @@ h6 {
     white-space: nowrap;
     text-overflow: ellipsis;
 }
+
+.card {
+    position: relative;
+}
+
+.bagdeImage {
+    object-fit: cover;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: -10px;
+    left: -5px;
+}
